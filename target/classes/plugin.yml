@@ -1,0 +1,7 @@
+name: ItemsAPI
+version: '1.0'
+main: ru.swat1x.itemsapi.Main
+api-version: 1.16
+authors: [ swat1x ]
+commands:
+  customitemstestcommand:
